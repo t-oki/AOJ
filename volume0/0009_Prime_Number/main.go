@@ -7,7 +7,6 @@ import (
 	"strconv"
 )
 
-var max = 100000
 var sc = bufio.NewScanner(os.Stdin)
 
 func main() {
